@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "displayName": "HTTP motion",
   "name": "homebridge-HTTP-motion",
   "version": "1.0.0",
